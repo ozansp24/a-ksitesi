@@ -11,5 +11,5 @@ Son olarak `script.js` dosyasında bulunan `October 29, 1923 15:15:15` tarihi ay
 ## Sonuç:
 Girmiş olduğunuz tarihten sonra her yıl dönümünde site de belirtilen yıl dönümü yazısı görünecektir.
 ## Demo:
-https://sevgililer-icin-site.vercel.app/
+https://a-ksitesi-moster.vercel.app/
 ### Dip not: Basit bir sitedir eğer gerekli bilgiye sahipseniz düzenleyerek kullanabilirsiniz.
