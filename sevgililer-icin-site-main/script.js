@@ -53,7 +53,7 @@ window.onload = function () {
 };
 
 // Belirtilen tarihten itibaren geçen süreyi hesaplayan işlev
-var countDownDate = new Date("July 9, 2023 00:00:00").getTime();
+var countDownDate = new Date("mayıs 6, 2025 22:35:00").getTime();
 
 var countdownfunction = setInterval(function () {
     var now = new Date().getTime();
